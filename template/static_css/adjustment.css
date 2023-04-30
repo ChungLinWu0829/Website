@@ -1,0 +1,70 @@
+.pic_show {
+    max-width: 30%;
+    height: auto;
+}
+
+.text-uppercase, .text-muted, .portfolio-caption-heading {
+    text-align: center;
+}
+
+.text_red {
+    color: red;
+}
+
+.text_blue {
+    color: blue;
+}
+
+.modal-content {
+    background-image: url("/static/background/room_back2.jpg");
+
+}
+
+.modal-content-j {
+    background-image: url("/static/background/journey_back.jpg");
+}
+
+.title_room {
+    font-size: 1.7rem;
+    color: darkslategrey;
+    font-weight: 800;
+}
+
+.title_room2 {
+    font-size: 1.2rem;
+    color: #17a2b8;
+    font-weight: bold;
+}
+
+.title_journey {
+    font-size: 1.2rem;
+    color: #17a2b8;
+    font-weight: bold;
+}
+
+.title_site {
+    font-size: 1.7rem;
+    color: #495057;
+    font-weight: 800;
+    text-align: center;
+}
+
+.text_site {
+    color: #6c757d !important;
+    text-align: left;
+}
+
+.btn-white {
+    color: #fff;
+}
+
+.btn-white:hover {
+    color: #fff;
+    background-color: #23272b;
+    border-color: #1d2124;
+}
+
+.qrcode{
+    width:15em;
+    height:15em;
+}
