@@ -19,13 +19,14 @@ Prerequisites
 	- Clone the repository:
  	```css
 	git clone https://github.com/ChungLinWu0829/Website.git
+  	cd Website/template
   	```
 	- Create and activate a virtual environment:
-    ```css
+    	```css
 	python -m venv venv
 	source venv/bin/activate
-    # On Windows, use `venv\Scripts\activate`
-    ```
+    	# On Windows, use `venv\Scripts\activate`
+    	```
 	- Install dependencies:
 	```css
 	pip install -r requirements.txt
